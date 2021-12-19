@@ -3,9 +3,8 @@ package main
 import (
 	"context"
 	"fmt"
-	"log"
-	"net/http"
 	"golang.org/x/sync/errgroup"
+	"net/http"
 )
 
 
