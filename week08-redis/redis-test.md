@@ -74,27 +74,27 @@ mem_allocator:jemalloc-4.0.3
 
 ![image](https://github.com/xiehengkang/golang-training-camp/blob/xiehengkang/week08-redis/img/image-20220124001146259.png)
 
-执行20字节30万k v写入，单个ke y平均65字节：
+执行20字节30万kv写入，单个key平均65字节：
 
 ![image](https://github.com/xiehengkang/golang-training-camp/blob/xiehengkang/week08-redis/img/image-20220124001357260.png)
 
-执行50字节30万k v写入，单个key平均84字节：
+执行50字节30万kv写入，单个key平均84字节：
 
 ![image](https://github.com/xiehengkang/golang-training-camp/blob/xiehengkang/week08-redis/img/image-20220124001543046.png)
 
-执行100字节30万k v写入，单个ke y平均100字节：
+执行100字节30万kv写入，单个key平均100字节：
 
 ![image](https://github.com/xiehengkang/golang-training-camp/blob/xiehengkang/week08-redis/img/image-20220124001726741.png)
 
-执行200字节30万k v写入，单个key平均171字节：
+执行200字节30万kv写入，单个key平均171字节：
 
 ![image](https://github.com/xiehengkang/golang-training-camp/blob/xiehengkang/week08-redis/img/image-20220124001828236.png)
 
-执行1k字节30万k v写入，单个key平均818字节：
+执行1k字节30万kv写入，单个key平均818字节：
 
 ![image](https://github.com/xiehengkang/golang-training-camp/blob/xiehengkang/week08-redis/img/image-20220124002020511.png)
 
-执行5k字节30万k v写入，单个key平均4,144字节：
+执行5k字节30万kv写入，单个key平均4,144字节：
 
 ![image](https://github.com/xiehengkang/golang-training-camp/blob/xiehengkang/week08-redis/img/image-20220124002134572.png)
 
