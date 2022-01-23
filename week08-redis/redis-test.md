@@ -14,35 +14,35 @@
 
 10字节：
 
-![image-20220123233740294](/Users/xiehengkang/Library/Application Support/typora-user-images/image-20220123233740294.png)
+![image](https://github.com/xiehengkang/golang-training-camp/blob/xiehengkang/week08-redis/img/image-20220123233740294.png)
 
 20字节：
 
-![image-20220123233808713](/Users/xiehengkang/Library/Application Support/typora-user-images/image-20220123233808713.png)
+![image](https://github.com/xiehengkang/golang-training-camp/blob/xiehengkang/week08-redis/img/image-20220123233808713.png)
 
 50字节：
 
-![image-20220123233840317](/Users/xiehengkang/Library/Application Support/typora-user-images/image-20220123233840317.png)
+![image](https://github.com/xiehengkang/golang-training-camp/blob/xiehengkang/week08-redis/img/image-20220123233840317.png)
 
 100字节：
 
-![image-20220123233912902](/Users/xiehengkang/Library/Application Support/typora-user-images/image-20220123233912902.png)
+![image](https://github.com/xiehengkang/golang-training-camp/blob/xiehengkang/week08-redis/img/image-20220123233912902.png)
 
 
 
 200字节：
 
-![image-20220123233943950](/Users/xiehengkang/Library/Application Support/typora-user-images/image-20220123233943950.png)
+![image](https://github.com/xiehengkang/golang-training-camp/blob/xiehengkang/week08-redis/img/image-20220123233943950.png)
 
 
 
 1k字节：
 
-![image-20220123234014847](/Users/xiehengkang/Library/Application Support/typora-user-images/image-20220123234014847.png)
+![image](https://github.com/xiehengkang/golang-training-camp/blob/xiehengkang/week08-redis/img/image-20220123234014847.png)
 
 5k字节：
 
-![image-20220123234048568](/Users/xiehengkang/Library/Application Support/typora-user-images/image-20220123234048568.png)
+![image](https://github.com/xiehengkang/golang-training-camp/blob/xiehengkang/week08-redis/img/image-20220123234048568.png)
 
 
 
@@ -72,33 +72,33 @@ mem_allocator:jemalloc-4.0.3
 
 执行10字节30万kv写入，单个key平均76字节：
 
-![image-20220124001146259](/Users/xiehengkang/Library/Application Support/typora-user-images/image-20220124001146259.png)
+![image](https://github.com/xiehengkang/golang-training-camp/blob/xiehengkang/week08-redis/img/image-20220124001146259.png)
 
 执行20字节30万k v写入，单个ke y平均65字节：
 
-![image-20220124001357260](/Users/xiehengkang/Library/Application Support/typora-user-images/image-20220124001357260.png)
+![image](https://github.com/xiehengkang/golang-training-camp/blob/xiehengkang/week08-redis/img/image-20220124001357260.png)
 
 执行50字节30万k v写入，单个key平均84字节：
 
-![image-20220124001543046](/Users/xiehengkang/Library/Application Support/typora-user-images/image-20220124001543046.png)
+![image](https://github.com/xiehengkang/golang-training-camp/blob/xiehengkang/week08-redis/img/image-20220124001543046.png)
 
 执行100字节30万k v写入，单个ke y平均100字节：
 
-![image-20220124001726741](/Users/xiehengkang/Library/Application Support/typora-user-images/image-20220124001726741.png)
+![image](https://github.com/xiehengkang/golang-training-camp/blob/xiehengkang/week08-redis/img/image-20220124001726741.png)
 
 执行200字节30万k v写入，单个key平均171字节：
 
-![image-20220124001828236](/Users/xiehengkang/Library/Application Support/typora-user-images/image-20220124001828236.png)
+![image](https://github.com/xiehengkang/golang-training-camp/blob/xiehengkang/week08-redis/img/image-20220124001828236.png)
 
 执行1k字节30万k v写入，单个key平均818字节：
 
-![image-20220124002020511](/Users/xiehengkang/Library/Application Support/typora-user-images/image-20220124002020511.png)
+![image](https://github.com/xiehengkang/golang-training-camp/blob/xiehengkang/week08-redis/img/image-20220124002020511.png)
 
 执行5k字节30万k v写入，单个key平均4,144字节：
 
-![image-20220124002134572](/Users/xiehengkang/Library/Application Support/typora-user-images/image-20220124002134572.png)
+![image](https://github.com/xiehengkang/golang-training-camp/blob/xiehengkang/week08-redis/img/image-20220124002134572.png)
 
-![image-20220124002149284](/Users/xiehengkang/Library/Application Support/typora-user-images/image-20220124002149284.png)
+![image](https://github.com/xiehengkang/golang-training-camp/blob/xiehengkang/week08-redis/img/image-20220124002149284.png)
 
 
 
